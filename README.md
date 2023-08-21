@@ -23,9 +23,9 @@ The repository has the following folders:
 
 ## Getting Started
 To use this application, you must have Jupyter Notebook installed on your system.
-1.Clone the repository to your local machine.
-2.Open the Jupyter Notebook files in the desired order.
-3.Execute each cell in the notebooks to clean and analyze the data. The resulting data and plots will be saved in the cleaned_data folder.
+1. Clone the repository to your local machine.
+2. Open the Jupyter Notebook files in the desired order.
+3. Execute each cell in the notebooks to clean and analyze the data. The resulting data and plots will be saved in the cleaned_data folder.
 
 ## Contact
 * Please feel free to reach me through my [LinkedIn](http://linkedin.com/in/dominikdawiec/).  
