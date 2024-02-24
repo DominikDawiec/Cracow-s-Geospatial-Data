@@ -1,6 +1,6 @@
 # Cracow's Geospatial Data
 
-This project focuses on exploring and analyzing geospatial data related to Cracow, Poland. The data was gathered from various sources.
+This project focuses on exploring and analyzing **geospatial data** related to Cracow, Poland. The data was gathered from various sources.
 
 #### Project Status: [Active]
 
